@@ -22,6 +22,3 @@ Climate Live is a location-aware weather app that will find out where you are in
 
 - Displaying a 5-day weather forecast at user's current location or any other cities
 - Displaying data such as UV Index and air pollution 
-
-
-# Climate_Live
